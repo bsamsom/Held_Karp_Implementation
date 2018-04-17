@@ -1,0 +1,7 @@
+example graph3x3
+Shortest path distance: 9
+Shortest path: 1->2->3->1
+3
+-1 0 1 2
+-2 6 0 3
+-3 5 4 0
